@@ -6,6 +6,7 @@ templatetags for django-form-utils
 from __future__ import unicode_literals
 
 from django import forms
+from django import template
 from django.template.loader import render_to_string
 from django.utils import six
 
